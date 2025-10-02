@@ -1,0 +1,16 @@
+C:\Users\salih\source\repos\hafta 2 2\hafta 2 2\bin\Debug\net8.0-windows\hafta 2 2.exe
+C:\Users\salih\source\repos\hafta 2 2\hafta 2 2\bin\Debug\net8.0-windows\hafta 2 2.deps.json
+C:\Users\salih\source\repos\hafta 2 2\hafta 2 2\bin\Debug\net8.0-windows\hafta 2 2.runtimeconfig.json
+C:\Users\salih\source\repos\hafta 2 2\hafta 2 2\bin\Debug\net8.0-windows\hafta 2 2.dll
+C:\Users\salih\source\repos\hafta 2 2\hafta 2 2\bin\Debug\net8.0-windows\hafta 2 2.pdb
+C:\Users\salih\source\repos\hafta 2 2\hafta 2 2\obj\Debug\net8.0-windows\hafta_2_2.Form1.resources
+C:\Users\salih\source\repos\hafta 2 2\hafta 2 2\obj\Debug\net8.0-windows\hafta 2 2.csproj.GenerateResource.cache
+C:\Users\salih\source\repos\hafta 2 2\hafta 2 2\obj\Debug\net8.0-windows\hafta 2 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salih\source\repos\hafta 2 2\hafta 2 2\obj\Debug\net8.0-windows\hafta 2 2.AssemblyInfoInputs.cache
+C:\Users\salih\source\repos\hafta 2 2\hafta 2 2\obj\Debug\net8.0-windows\hafta 2 2.AssemblyInfo.cs
+C:\Users\salih\source\repos\hafta 2 2\hafta 2 2\obj\Debug\net8.0-windows\hafta 2 2.csproj.CoreCompileInputs.cache
+C:\Users\salih\source\repos\hafta 2 2\hafta 2 2\obj\Debug\net8.0-windows\hafta 2 2.dll
+C:\Users\salih\source\repos\hafta 2 2\hafta 2 2\obj\Debug\net8.0-windows\refint\hafta 2 2.dll
+C:\Users\salih\source\repos\hafta 2 2\hafta 2 2\obj\Debug\net8.0-windows\hafta 2 2.pdb
+C:\Users\salih\source\repos\hafta 2 2\hafta 2 2\obj\Debug\net8.0-windows\hafta 2 2.genruntimeconfig.cache
+C:\Users\salih\source\repos\hafta 2 2\hafta 2 2\obj\Debug\net8.0-windows\ref\hafta 2 2.dll
