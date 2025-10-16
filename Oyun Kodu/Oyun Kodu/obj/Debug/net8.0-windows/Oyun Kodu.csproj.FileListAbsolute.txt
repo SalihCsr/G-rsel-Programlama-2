@@ -1,0 +1,16 @@
+C:\Users\salih\source\repos\Oyun Kodu\Oyun Kodu\bin\Debug\net8.0-windows\Oyun Kodu.exe
+C:\Users\salih\source\repos\Oyun Kodu\Oyun Kodu\bin\Debug\net8.0-windows\Oyun Kodu.deps.json
+C:\Users\salih\source\repos\Oyun Kodu\Oyun Kodu\bin\Debug\net8.0-windows\Oyun Kodu.runtimeconfig.json
+C:\Users\salih\source\repos\Oyun Kodu\Oyun Kodu\bin\Debug\net8.0-windows\Oyun Kodu.dll
+C:\Users\salih\source\repos\Oyun Kodu\Oyun Kodu\bin\Debug\net8.0-windows\Oyun Kodu.pdb
+C:\Users\salih\source\repos\Oyun Kodu\Oyun Kodu\obj\Debug\net8.0-windows\Oyun_Kodu.Form1.resources
+C:\Users\salih\source\repos\Oyun Kodu\Oyun Kodu\obj\Debug\net8.0-windows\Oyun Kodu.csproj.GenerateResource.cache
+C:\Users\salih\source\repos\Oyun Kodu\Oyun Kodu\obj\Debug\net8.0-windows\Oyun Kodu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salih\source\repos\Oyun Kodu\Oyun Kodu\obj\Debug\net8.0-windows\Oyun Kodu.AssemblyInfoInputs.cache
+C:\Users\salih\source\repos\Oyun Kodu\Oyun Kodu\obj\Debug\net8.0-windows\Oyun Kodu.AssemblyInfo.cs
+C:\Users\salih\source\repos\Oyun Kodu\Oyun Kodu\obj\Debug\net8.0-windows\Oyun Kodu.csproj.CoreCompileInputs.cache
+C:\Users\salih\source\repos\Oyun Kodu\Oyun Kodu\obj\Debug\net8.0-windows\Oyun Kodu.dll
+C:\Users\salih\source\repos\Oyun Kodu\Oyun Kodu\obj\Debug\net8.0-windows\refint\Oyun Kodu.dll
+C:\Users\salih\source\repos\Oyun Kodu\Oyun Kodu\obj\Debug\net8.0-windows\Oyun Kodu.pdb
+C:\Users\salih\source\repos\Oyun Kodu\Oyun Kodu\obj\Debug\net8.0-windows\Oyun Kodu.genruntimeconfig.cache
+C:\Users\salih\source\repos\Oyun Kodu\Oyun Kodu\obj\Debug\net8.0-windows\ref\Oyun Kodu.dll

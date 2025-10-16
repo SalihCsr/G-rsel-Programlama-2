@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Oyun Kodu/1.0.0": {
+        "runtime": {
+          "Oyun Kodu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oyun Kodu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
